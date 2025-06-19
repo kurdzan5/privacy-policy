@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #004085;
+        }
+        h2 {
+            color: #003366;
+        }
+        p, li {
+            margin-bottom: 15px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>This document explains how we collect, use, and protect users' personal information.</p>
+
+    <h2>1. Information Collection</h2>
+    <p>Information is collected to improve services and ensure the proper functioning of applications and decisions.</p>
+
+    <h2>2. Use of Information</h2>
+    <p>Personal information is used responsibly to provide better services and maintain security.</p>
+
+    <h2>3. Information Protection</h2>
+    <p>All efforts are made to protect personal information from unauthorized access, theft, or misuse.</p>
+
+    <h2>4. Information Sharing</h2>
+    <p>Personal information is shared only through official channels and with legal authorization.</p>
+
+    <h2>5. Access to Information</h2>
+    <p>Users can request to view, correct, or delete their personal information.</p>
+
+    <h2>6. Changes to This Policy</h2>
+    <p>This policy may be updated from time to time, and changes will be maintained within this document.</p>
+
+    <h2>7. Contact</h2>
+    <p>For more information or privacy requests, please contact: <a href="mailto:example@email.com">example@email.com</a></p>
+</body>
+</html>
